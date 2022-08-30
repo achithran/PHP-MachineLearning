@@ -67,6 +67,7 @@ class DBSCAN implements Estimator
      * @var int
      */
     protected int $minDensity;
+    #changed
 
     /**
      * The spatial tree used to run range searches.
